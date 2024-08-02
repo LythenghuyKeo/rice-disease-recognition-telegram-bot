@@ -1,0 +1,1112 @@
+[
+  {
+    "question": "What causes bacterial blight in rice?",
+    "context": "Bacterial blight is caused by Xanthomonas oryzae pv. oryzae.",
+    "answers": {
+        "text": ["Xanthomonas oryzae pv. oryzae"],
+        "answer_start": [29]
+    }
+},
+{
+    "question": "What are the symptoms of bacterial blight in rice seedlings?",
+    "context": "Check for wilting and yellowing of leaves, or wilting of seedlings (also called kresek). On seedlings, infected leaves turn grayish green and roll up.",
+    "answers": {
+        "text": ["wilting and yellowing of leaves", "grayish green leaves that roll up"],
+        "answer_start": [37, 101]
+    }
+},
+{
+    "question": "How can you distinguish kresek symptoms from stem borer damage in rice seedlings?",
+    "context": "To distinguish kresek symptoms from stem borer damage, squeeze the lower end of infected seedlings between the fingers. Kresek symptoms should show yellowish bacterial ooze coming out of the cut ends.",
+    "answers": {
+        "text": ["yellowish bacterial ooze coming out of the cut ends"],
+        "answer_start": [183]
+    }
+},
+{
+    "question": "What are the characteristics of lesions caused by bacterial blight on older rice plants?",
+    "context": "On older plants, lesions usually develop as water-soaked to yellow-orange stripes on leaf blades or leaf tips or on mechanically injured parts of leaves.",
+    "answers": {
+        "text": ["water-soaked to yellow-orange stripes", "lesions have a wavy margin"],
+        "answer_start": [74, 109]
+    }
+},
+{
+    "question": "How can bacterial blight be diagnosed quickly on rice leaves?",
+    "context": "To quickly diagnose bacterial blight on leaf: cut a young lesion across and place in a transparent glass container with clear water. After a few minutes, observe for thick or turbid liquid coming from the cut end of the leaf.",
+    "answers": {
+        "text": ["thick or turbid liquid coming from the cut end of the leaf"],
+        "answer_start": [256]
+    }
+},
+{
+    "question": "Why is it important to control bacterial blight in rice?",
+    "context": "Bacterial blight is one of the most serious diseases of rice. The earlier the disease occurs, the higher the yield loss.",
+    "answers": {
+        "text": ["one of the most serious diseases of rice", "higher the yield loss"],
+        "answer_start": [70, 112]
+    }
+},
+{
+    "question": "What is the most effective method to control bacterial blight in rice?",
+    "context": "Planting resistant varieties has been proven to be the most efficient, most reliable, and cheapest way to control bacterial blight.",
+    "answers": {
+        "text": ["Planting resistant varieties"],
+        "answer_start": [0]
+    }
+},
+{
+    "question": "How can farmers manage bacterial blight without chemicals?",
+    "context": "Other disease control options include: Use balanced amounts of plant nutrients, especially nitrogen. Ensure good drainage of fields (in conventionally flooded crops) and nurseries. Keep fields clean.",
+    "answers": {
+        "text": ["Use balanced amounts of plant nutrients", "Ensure good drainage of fields", "Keep fields clean"],
+        "answer_start": [309, 341, 387]
+    }
+},
+{
+    "question": "What environmental conditions favor the development of bacterial blight in rice?",
+    "context": "The disease favors temperatures at 25−34°C, with relative humidity above 70%. It can occur in both tropical and temperate environments, particularly in irrigated and rainfed lowland areas.",
+    "answers": {
+        "text": ["temperatures at 25−34°C", "relative humidity above 70%"],
+        "answer_start": [82, 107]
+    }
+},
+{
+    "question": "What role does nitrogen fertilization play in the severity of bacterial blight?",
+    "context": "Bacterial blight can be severe in susceptible rice varieties under high nitrogen fertilization.",
+    "answers": {
+        "text": ["severe in susceptible rice varieties under high nitrogen fertilization"],
+        "answer_start": [0]
+    }
+},
+{
+    "question": "How does bacterial blight spread in rice fields?",
+    "context": "Bacterial blight spreads through ooze droplets on lesions of infected plants, particularly during strong winds and continuous heavy rains.",
+    "answers": {
+        "text": ["ooze droplets on lesions of infected plants", "strong winds and continuous heavy rains"],
+        "answer_start": [190, 219]
+    }
+},
+{
+    "question": "What can happen if bacterial blight infects rice at the booting stage?",
+    "context": "When plants are infected at booting stage, bacterial blight does not affect yield but results in poor quality grains and a high proportion of broken kernels.",
+    "answers": {
+        "text": ["poor quality grains", "high proportion of broken kernels"],
+        "answer_start": [143, 173]
+    }
+},
+{
+    "question": "How can farmers distinguish bacterial blight lesions from other rice diseases?",
+    "context": "Bacterial blight lesions develop as water-soaked to yellow-orange stripes with a wavy margin on leaf blades or leaf tips.",
+    "answers": {
+        "text": ["water-soaked to yellow-orange stripes", "wavy margin on leaf blades or leaf tips"],
+        "answer_start": [76, 112]
+    }
+},
+{
+    "question": "What are the economic implications of a bacterial blight outbreak in rice?",
+    "context": "Yield loss due to bacterial blight can be as much as 70% when susceptible varieties are grown, in environments favorable to the disease.",
+    "answers": {
+        "text": ["as much as 70% yield loss", "susceptible varieties", "environments favorable to the disease"],
+        "answer_start": [23, 107, 148]
+    }
+},
+{
+    "question": "How can rice farmers minimize the risk of bacterial blight during planting?",
+    "context": "Farmers can minimize the risk of bacterial blight by planting resistant varieties and adjusting planting times to avoid conditions favoring disease development.",
+    "answers": {
+        "text": ["planting resistant varieties", "adjusting planting times"],
+        "answer_start": [53, 136]
+    }
+},
+{
+    "question": "What cultural practices can help prevent bacterial blight in rice fields?",
+    "context": "Cultural practices such as good drainage, field cleanliness, and removing weed hosts can help prevent bacterial blight in rice fields.",
+    "answers": {
+        "text": ["good drainage", "field cleanliness", "removing weed hosts"],
+        "answer_start": [89, 127, 183]
+    }
+},
+{
+    "question": "How can bacterial blight affect rice seedlings?",
+    "context": "Bacterial blight can cause wilting and yellowing of leaves in seedlings, eventually leading to the death of whole seedlings.",
+    "answers": {
+        "text": ["wilting and yellowing of leaves", "death of whole seedlings"],
+        "answer_start": [32, 133]
+    }
+},
+{
+    "question": "What symptoms of bacterial blight can be observed on rice leaves?",
+    "context": "Symptoms on rice leaves include water-soaked to yellow-orange stripes with a wavy margin, and bacterial ooze that dries up into yellowish beads.",
+    "answers": {
+        "text": ["water-soaked to yellow-orange stripes", "wavy margin", "bacterial ooze that dries up into yellowish beads"],
+        "answer_start": [57, 95, 218]
+    }
+},
+{
+    "question": "What management practices are recommended for controlling bacterial blight?",
+    "context": "Recommended practices include planting resistant varieties, maintaining balanced plant nutrition, and managing field water levels.",
+    "answers": {
+        "text": ["planting resistant varieties", "maintaining balanced plant nutrition", "managing field water levels"],
+        "answer_start": [30, 84, 140]
+    }
+},
+{
+    "question": "What conditions promote the development of bacterial blight in rice?",
+    "context": "Bacterial blight thrives in temperatures between 25−34°C and high relative humidity above 70%, common in irrigated and rainfed lowland areas.",
+    "answers": {
+        "text": ["temperatures between 25−34°C", "high relative humidity above 70%"],
+        "answer_start": [43, 84]
+    }
+},
+{
+    "question": "How does bacterial blight affect rice yield?",
+    "context": "Bacterial blight can cause significant yield loss, especially in susceptible varieties, due to reduced grain fill and poor quality grains.",
+    "answers": {
+        "text": ["significant yield loss", "reduced grain fill", "poor quality grains"],
+        "answer_start": [34, 102, 152]
+    }
+},
+{
+    "question": "What are the economic consequences of bacterial blight in rice farming?",
+    "context": "Economically, bacterial blight can lead to decreased profits for rice farmers due to reduced yields and lower-quality rice.",
+    "answers": {
+        "text": ["decreased profits", "reduced yields", "lower-quality rice"],
+        "answer_start": [47, 83, 138]
+    }
+},
+{
+    "question": "How can farmers detect bacterial blight early in rice crops?",
+    "context": "Early detection methods include observing leaf symptoms, checking for bacterial ooze, and conducting diagnostic tests on suspected plants.",
+    "answers": {
+        "text": ["observing leaf symptoms", "checking for bacterial ooze", "conducting diagnostic tests"],
+        "answer_start": [34, 98, 176]
+    }
+},
+{
+    "question": "What factors contribute to the severity of bacterial blight in rice fields?",
+    "context": "High nitrogen fertilization, poor field drainage, and heavy rains are factors that can increase the severity of bacterial blight in rice fields.",
+    "answers": {
+        "text": ["High nitrogen fertilization", "poor field drainage", "heavy rains"],
+        "answer_start": [0, 36, 66]
+    }
+},
+{
+    "question": "How does bacterial blight spread in rice fields?",
+    "context": "Bacterial blight spreads through ooze droplets on lesions of infected plants, particularly during strong winds and continuous heavy rains.",
+    "answers": {
+        "text": ["ooze droplets on lesions of infected plants", "strong winds and continuous heavy rains"],
+        "answer_start": [190, 219]
+    }
+},
+{
+    "question": "What can happen if bacterial blight infects rice at the booting stage?",
+    "context": "When plants are infected at booting stage, bacterial blight does not affect yield but results in poor quality grains and a high proportion of broken kernels.",
+    "answers": {
+        "text": ["poor quality grains", "high proportion of broken kernels"],
+        "answer_start": [143, 173]
+    }
+},
+{
+    "question": "How can farmers distinguish bacterial blight lesions from other rice diseases?",
+    "context": "Bacterial blight lesions develop as water-soaked to yellow-orange stripes with a wavy margin on leaf blades or leaf tips.",
+    "answers": {
+        "text": ["water-soaked to yellow-orange stripes", "wavy margin on leaf blades or leaf tips"],
+        "answer_start": [76, 112]
+    }
+},
+{
+    "question": "What are the economic implications of a bacterial blight outbreak in rice?",
+    "context": "Yield loss due to bacterial blight can be as much as 70% when susceptible varieties are grown, in environments favorable to the disease.",
+    "answers": {
+        "text": ["as much as 70% yield loss", "susceptible varieties", "environments favorable to the disease"],
+        "answer_start": [23, 107, 148]
+    }
+},
+{
+    "question": "How can rice farmers minimize the risk of bacterial blight during planting?",
+    "context": "Farmers can minimize the risk of bacterial blight by planting resistant varieties and adjusting planting times to avoid conditions favoring disease development.",
+    "answers": {
+        "text": ["planting resistant varieties", "adjusting planting times"],
+        "answer_start": [53, 136]
+    }
+},
+{
+    "question": "What cultural practices can help prevent bacterial blight in rice fields?",
+    "context": "Cultural practices such as good drainage, field cleanliness, and removing weed hosts can help prevent bacterial blight in rice fields.",
+    "answers": {
+        "text": ["good drainage", "field cleanliness", "removing weed hosts"],
+        "answer_start": [89, 127, 183]
+    }
+},
+{
+    "question": "How can bacterial blight affect rice seedlings?",
+    "context": "Bacterial blight can cause wilting and yellowing of leaves in seedlings, eventually leading to the death of whole seedlings.",
+    "answers": {
+        "text": ["wilting and yellowing of leaves", "death of whole seedlings"],
+        "answer_start": [32, 133]
+    }
+},
+{
+    "question": "What symptoms of bacterial blight can be observed on rice leaves?",
+    "context": "Symptoms on rice leaves include water-soaked to yellow-orange stripes with a wavy margin, and bacterial ooze that dries up into yellowish beads.",
+    "answers": {
+        "text": ["water-soaked to yellow-orange stripes", "wavy margin", "bacterial ooze that dries up into yellowish beads"],
+        "answer_start": [57, 95, 218]
+    }
+},
+{
+    "question": "What management practices are recommended for controlling bacterial blight?",
+    "context": "Recommended practices include planting resistant varieties, maintaining balanced plant nutrition, and managing field water levels.",
+    "answers": {
+        "text": ["planting resistant varieties", "maintaining balanced plant nutrition", "managing field water levels"],
+        "answer_start": [30, 84, 140]
+    }
+},
+{
+    "question": "What conditions promote the development of bacterial blight in rice?",
+    "context": "Bacterial blight thrives in temperatures between 25−34°C and high relative humidity above 70%, common in irrigated and rainfed lowland areas.",
+    "answers": {
+        "text": ["temperatures between 25−34°C", "high relative humidity above 70%"],
+        "answer_start": [43, 84]
+    }
+},
+{
+    "question": "How does bacterial blight affect rice yield?",
+    "context": "Bacterial blight can cause significant yield loss, especially in susceptible varieties, due to reduced grain fill and poor quality grains.",
+    "answers": {
+        "text": ["significant yield loss", "reduced grain fill", "poor quality grains"],
+        "answer_start": [34, 102, 152]
+    }
+},
+{
+    "question": "What are the economic consequences of bacterial blight in rice farming?",
+    "context": "Economically, bacterial blight can lead to decreased profits for rice farmers due to reduced yields and lower-quality rice.",
+    "answers": {
+        "text": ["decreased profits", "reduced yields", "lower-quality rice"],
+        "answer_start": [47, 83, 138]
+    }
+},
+{
+    "question": "How can farmers detect bacterial blight early in rice crops?",
+    "context": "Early detection methods include observing leaf symptoms, checking for bacterial ooze, and conducting diagnostic tests on suspected plants.",
+    "answers": {
+        "text": ["observing leaf symptoms", "checking for bacterial ooze", "conducting diagnostic tests"],
+        "answer_start": [34, 98, 176]
+    }
+},
+{
+    "question": "What factors contribute to the severity of bacterial blight in rice fields?",
+    "context": "High nitrogen fertilization, poor field drainage, and heavy rains are factors that can increase the severity of bacterial blight in rice fields.",
+    "answers": {
+        "text": ["High nitrogen fertilization", "poor field drainage", "heavy rains"],
+        "answer_start": [0, 36, 66]
+    }
+},  {
+  "question": "What causes rice blast?",
+  "context": "Rice blast is caused by the fungus Magnaporthe oryzae. It can affect all above ground parts of a rice plant: leaf, collar, node, neck, parts of panicle, and sometimes leaf sheath.",
+  "answers": {
+      "text": ["the fungus Magnaporthe oryzae"],
+      "answer_start": [27]
+  }
+},
+{
+  "question": "Where does rice blast occur?",
+  "context": "Rice blast can occur wherever blast spores are present. It thrives in areas with low soil moisture, frequent and prolonged rain showers, and cooler daytime temperatures.",
+  "answers": {
+      "text": ["wherever blast spores are present", "areas with low soil moisture, frequent and prolonged rain showers, and cooler daytime temperatures"],
+      "answer_start": [20, 120]
+  }
+},
+{
+  "question": "How do you spot rice blast?",
+  "context": "To identify rice blast, look for lesions on the leaf and collar. Initially, these appear as white to gray-green spots with dark green borders. As they mature, lesions become elliptical or spindle-shaped with whitish to gray centers and red to brown borders.",
+  "answers": {
+      "text": ["look for lesions on the leaf and collar", "white to gray-green spots with dark green borders", "elliptical or spindle-shaped with whitish to gray centers and red to brown borders"],
+      "answer_start": [44, 102, 258]
+  }
+},
+{
+  "question": "Why is rice blast harmful?",
+  "context": "Rice blast is highly destructive, capable of killing seedlings or young plants up to the tillering stage. It also reduces leaf area during grain fill, leading to lower grain yields.",
+  "answers": {
+      "text": ["highly destructive", "kills seedlings or young plants up to the tillering stage", "reduces leaf area during grain fill, leading to lower grain yields"],
+      "answer_start": [0, 66, 209]
+  }
+},
+{
+  "question": "How can rice blast be controlled?",
+  "context": "Control rice blast by planting resistant varieties. Other methods include adjusting planting times, applying nitrogen fertilizer in split doses, flooding fields, and using silicon fertilizers. Systemic fungicides like triazoles and strobilurins can also help.",
+  "answers": {
+      "text": ["planting resistant varieties", "adjusting planting times", "applying nitrogen fertilizer in split doses", "flooding fields", "using silicon fertilizers", "using systemic fungicides like triazoles and strobilurins"],
+      "answer_start": [12, 80, 222, 307, 439, 548]
+  }
+},
+{
+  "question": "What are the symptoms of rice blast?",
+  "context": "Symptoms of rice blast include white to gray-green spots on leaves with dark green borders, which can grow into elliptical or spindle-shaped lesions with whitish to gray centers and red to brown borders.",
+  "answers": {
+      "text": ["white to gray-green spots on leaves with dark green borders", "elliptical or spindle-shaped lesions with whitish to gray centers and red to brown borders"],
+      "answer_start": [31, 167]
+  }
+},
+{
+  "question": "When does rice blast occur?",
+  "context": "Rice blast occurs in areas with low soil moisture, frequent rain showers, and cool daytime temperatures. It is more prevalent during the early growth stages of rice plants.",
+  "answers": {
+      "text": ["areas with low soil moisture, frequent rain showers, and cool daytime temperatures", "early growth stages of rice plants"],
+      "answer_start": [37, 139]
+  }
+},
+{
+  "question": "How does rice blast affect rice plants?",
+  "context": "Rice blast can affect all above-ground parts of the rice plant, leading to reduced leaf area for grain fill and potentially killing seedlings or young plants.",
+  "answers": {
+      "text": ["affect all above-ground parts of the rice plant", "reduced leaf area for grain fill", "potentially killing seedlings or young plants"],
+      "answer_start": [28, 113, 224]
+  }
+},
+{
+  "question": "Can rice blast be prevented?",
+  "context": "Prevent rice blast by using resistant rice varieties, adjusting planting times to avoid peak disease conditions, and applying silicon fertilizers to reduce disease severity.",
+  "answers": {
+      "text": ["using resistant rice varieties", "adjusting planting times to avoid peak disease conditions", "applying silicon fertilizers to reduce disease severity"],
+      "answer_start": [14, 79, 172]
+  }
+},
+{
+  "question": "What management practices help control rice blast?",
+  "context": "Control rice blast through integrated pest management practices such as crop rotation, seed treatment with fungicides, and maintaining proper field drainage to reduce disease pressure.",
+  "answers": {
+      "text": ["crop rotation", "seed treatment with fungicides", "maintaining proper field drainage to reduce disease pressure"],
+      "answer_start": [38, 76, 194]
+  }
+},
+{
+  "question": "Why is early detection of rice blast important?",
+  "context": "Early detection of rice blast allows for timely intervention with fungicides or cultural practices, minimizing yield losses and preventing the spread of the disease to healthy plants.",
+  "answers": {
+      "text": ["allows for timely intervention with fungicides or cultural practices", "minimizing yield losses", "preventing the spread of the disease to healthy plants"],
+      "answer_start": [46, 100, 165]
+  }
+},
+{
+  "question": "What are some cultural practices to manage rice blast?",
+  "context": "Cultural practices to manage rice blast include maintaining optimal plant spacing, avoiding excessive nitrogen fertilization, and promoting good air circulation around plants.",
+  "answers": {
+      "text": ["maintaining optimal plant spacing", "avoiding excessive nitrogen fertilization", "promoting good air circulation around plants"],
+      "answer_start": [31, 72, 143]
+  }
+},
+{
+  "question": "How does weather affect rice blast?",
+  "context": "Weather conditions such as frequent rain showers and cool temperatures create favorable conditions for rice blast development, especially during the early growth stages of rice.",
+  "answers": {
+      "text": ["frequent rain showers and cool temperatures", "especially during the early growth stages of rice"],
+      "answer_start": [27, 188]
+  }
+},
+{
+  "question": "What are the economic impacts of rice blast?",
+  "context": "Rice blast can lead to significant economic losses due to reduced grain yield and quality. It may also increase production costs associated with fungicide applications and crop management.",
+  "answers": {
+      "text": ["significant economic losses due to reduced grain yield and quality", "increased production costs associated with fungicide applications and crop management"],
+      "answer_start": [26, 101]
+  }
+},
+{
+  "question": "How can farmers reduce the risk of rice blast?",
+  "context": "Farmers can reduce the risk of rice blast by selecting disease-resistant rice varieties, practicing crop rotation, and implementing proper irrigation and drainage systems.",
+  "answers": {
+      "text": ["selecting disease-resistant rice varieties", "practicing crop rotation", "implementing proper irrigation and drainage systems"],
+      "answer_start": [35, 75, 161]
+  }
+},
+{
+  "question": "What should farmers do if they suspect rice blast?",
+  "context": "If farmers suspect rice blast, they should promptly remove and destroy infected plant materials, apply fungicides as recommended, and monitor nearby crops for signs of the disease.",
+  "answers": {
+      "text": ["promptly remove and destroy infected plant materials", "apply fungicides as recommended", "monitor nearby crops for signs of the disease"],
+      "answer_start": [38, 86, 163]
+  }
+},
+{
+  "question": "Are there cultural methods to control rice blast?",
+  "context": "Yes, cultural methods such as planting resistant varieties, adjusting planting times, and ensuring proper field drainage can help control rice blast without relying solely on chemical treatments.",
+  "answers": {
+      "text": ["planting resistant varieties", "adjusting planting times", "ensuring proper field drainage"],
+      "answer_start": [35, 61, 130]
+  }
+},
+{
+  "question": "What is the lifecycle of the rice blast fungus?",
+  "context": "The rice blast fungus, Magnaporthe oryzae, survives in soil and plant debris between seasons. It produces spores during favorable weather conditions, which spread through wind and rain to infect rice plants.",
+  "answers": {
+      "text": ["survives in soil and plant debris between seasons", "produces spores during favorable weather conditions", "spreads through wind and rain to infect rice plants"],
+      "answer_start": [42, 121, 231]
+  }
+},
+{
+  "question": "How can farmers prevent the spread of rice blast?",
+  "context": "Farmers can prevent the spread of rice blast by removing and destroying infected plant residues, practicing crop rotation, and using disease-resistant rice varieties.",
+  "answers": {
+      "text": ["removing and destroying infected plant residues", "practicing crop rotation", "using disease-resistant rice varieties"],
+      "answer_start": [36, 80, 163]
+  }
+},
+{
+  "question": "What are the early signs of rice blast?",
+  "context": "Early signs of rice blast include small, white to gray-green spots on leaves that later develop into elliptical or spindle-shaped lesions with red to brown borders.",
+  "answers": {
+      "text": ["small, white to gray-green spots on leaves", "elliptical or spindle-shaped lesions with red to brown borders"],
+      "answer_start": [25, 95]
+  }
+},
+{
+  "question": "Why is it important to monitor rice fields for blast?",
+  "context": "Monitoring rice fields for blast allows farmers to detect early signs of the disease, enabling timely interventions to minimize crop damage and yield losses.",
+  "answers": {
+      "text": ["detect early signs of the disease", "enable timely interventions to minimize crop damage and yield losses"],
+      "answer_start": [47, 125]
+  }
+},
+{
+  "question": "Can rice blast affect all growth stages of rice?",
+  "context": "Yes, rice blast can affect all growth stages of rice, although leaf blast incidence tends to decrease as plants mature and develop resistance.",
+  "answers": {
+      "text": ["Yes, rice blast can affect all growth stages of rice", "leaf blast incidence tends to decrease as plants mature and develop resistance"],
+      "answer_start": [5, 108]
+  }
+},
+{
+  "question": "How does rice blast spread?",
+  "context": "Rice blast spreads through spores carried by wind or rain. It can also spread through contaminated seeds and plant residues left in the field.",
+  "answers": {
+      "text": ["through spores carried by wind or rain", "through contaminated seeds and plant residues left in the field"],
+      "answer_start": [28, 94]
+  }
+},
+{
+  "question": "What role do fungicides play in managing rice blast?",
+  "context": "Fungicides play a crucial role in managing rice blast by controlling the spread of the disease during favorable conditions. They are often applied preventatively or curatively to protect rice plants.",
+  "answers": {
+      "text": ["controlling the spread of the disease during favorable conditions", "applied preventatively or curatively to protect rice plants"],
+      "answer_start": [43, 135]
+  }
+},
+{
+  "question": "How does weather affect the severity of rice blast?",
+  "context": "Weather conditions such as cool temperatures and frequent rain showers increase the severity of rice blast by creating ideal conditions for fungal growth and spore production.",
+  "answers": {
+      "text": ["cool temperatures and frequent rain showers", "creating ideal conditions for fungal growth and spore production"],
+      "answer_start": [27, 99]
+  }
+},
+{
+  "question": "What are the economic consequences of rice blast?",
+  "context": "The economic consequences of rice blast include reduced crop yield and quality, increased production costs due to fungicide applications, and potential losses for rice farmers.",
+  "answers": {
+      "text": ["reduced crop yield and quality", "increased production costs due to fungicide applications", "potential losses for rice farmers"],
+      "answer_start": [30, 103, 205]
+  }
+},
+{
+  "question": "How can farmers manage rice blast without chemicals?",
+  "context": "Farmers can manage rice blast without chemicals by planting disease-resistant rice varieties, improving field drainage, and practicing crop rotation to reduce disease pressure.",
+  "answers": {
+      "text": ["planting disease-resistant rice varieties", "improving field drainage", "practicing crop rotation to reduce disease pressure"],
+      "answer_start": [38, 80, 163]
+  }
+},
+{
+  "question": "What environmental conditions favor rice blast?",
+  "context": "Rice blast thrives in environments with low soil moisture, frequent rain showers, and cool daytime temperatures. These conditions create optimal conditions for fungal growth and spore production.",
+  "answers": {
+      "text": ["environments with low soil moisture, frequent rain showers, and cool daytime temperatures", "optimal conditions for fungal growth and spore production"],
+      "answer_start": [36, 146]
+  }
+},
+{
+  "question": "How do you identify collar blast?",
+  "context": "Identify collar blast by checking for lesions around the collar area of the rice plant. These lesions appear as small, whitish to gray-green spots that can enlarge and cause necrosis.",
+  "answers": {
+      "text": ["checking for lesions around the collar area of the rice plant", "small, whitish to gray-green spots that can enlarge and cause necrosis"],
+      "answer_start": [22, 108]
+  }
+},
+{
+  "question": "What are the different types of lesions seen in leaf blast?",
+  "context": "In leaf blast, lesions can appear as white to gray-green spots with dark green borders, which later become elliptical or spindle-shaped with whitish to gray centers and red to brown borders.",
+  "answers": {
+      "text": ["white to gray-green spots with dark green borders", "elliptical or spindle-shaped with whitish to gray centers and red to brown borders"],
+      "answer_start": [30, 141]
+  }
+},
+{
+  "question": "Why should farmers use resistant rice varieties to combat blast?",
+  "context": "Using resistant rice varieties is effective against blast because it reduces the likelihood of infection and minimizes the impact of the disease on crop yield and quality.",
+  "answers": {
+      "text": ["reduces the likelihood of infection", "minimizes the impact of the disease on crop yield and quality"],
+      "answer_start": [48, 129]
+  }
+},
+{
+  "question": "What cultural practices can farmers adopt to manage rice blast?",
+  "context": "Farmers can adopt cultural practices such as adjusting planting times, improving soil fertility, and promoting good crop health to manage rice blast effectively.",
+  "answers": {
+      "text": ["adjusting planting times", "improving soil fertility", "promoting good crop health"],
+      "answer_start": [35, 64, 121]
+  }
+},
+  {
+    "question": "What causes Tungro disease in rice?",
+    "context": "Rice tungro disease is caused by the combination of two viruses, which are transmitted by leafhoppers.",
+    "answers": {
+        "text": ["combination of two viruses", "transmitted by leafhoppers"],
+        "answer_start": [33, 79]
+    }
+},
+{
+    "question": "What are the symptoms of Tungro disease?",
+    "context": "It causes leaf discoloration, stunted growth, reduced tiller numbers and sterile or partly filled grains.",
+    "answers": {
+        "text": ["leaf discoloration", "stunted growth", "reduced tiller numbers", "sterile or partly filled grains"],
+        "answer_start": [54, 72, 97, 128]
+    }
+},
+{
+    "question": "What are the hosts of Tungro disease?",
+    "context": "Tungro infects cultivated rice, some wild rice relatives and other grassy weeds commonly found in rice paddies.",
+    "answers": {
+        "text": ["cultivated rice", "some wild rice relatives", "grassy weeds"],
+        "answer_start": [10, 38, 76]
+    }
+},
+{
+    "question": "How are Tungro disease viruses transmitted?",
+    "context": "Tungro disease viruses are transmitted from one plant to another by leafhoppers that feed on tungro-infected plants.",
+    "answers": {
+        "text": ["by leafhoppers", "feeding on tungro-infected plants"],
+        "answer_start": [77, 100]
+    }
+},
+{
+    "question": "During which growth stages can Tungro infection occur?",
+    "context": "Tungro infection can occur during all growth stages of the rice plant. It is most frequently seen during the vegetative phase.",
+    "answers": {
+        "text": ["all growth stages", "vegetative phase"],
+        "answer_start": [20, 111]
+    }
+},
+{
+    "question": "What is the importance of Tungro disease?",
+    "context": "Tungro is one of the most damaging and destructive diseases of rice in South and Southeast Asia.",
+    "answers": {
+        "text": ["damaging and destructive", "South and Southeast Asia"],
+        "answer_start": [24, 90]
+    }
+},
+{
+    "question": "How can Tungro disease be identified?",
+    "context": "Check for presence of leafhoppers. Check leaves for discoloration.",
+    "answers": {
+        "text": ["presence of leafhoppers", "discoloration in leaves"],
+        "answer_start": [9, 34]
+    }
+},
+{
+    "question": "What are the symptoms of leaf discoloration in Tungro-infected plants?",
+    "context": "Yellow or orange-yellow discoloration is noticeable in tungro-infected plants. Discoloration begins from the leaf tip and extends down to the blade or the lower leaf portion.",
+    "answers": {
+        "text": ["Yellow or orange-yellow", "begins from the leaf tip", "extends down to the blade or the lower leaf portion"],
+        "answer_start": [195, 221, 250]
+    }
+},
+{
+    "question": "How can Tungro disease be managed?",
+    "context": "Grow tungro or leafhopper resistant varieties. Practice synchronous planting with surrounding farms. Plow infected stubbles immediately after harvest.",
+    "answers": {
+        "text": ["resistant varieties", "synchronous planting", "plowing infected stubbles"],
+        "answer_start": [280, 306, 411]
+    }
+},
+{
+    "question": "What are the recommended preventive measures for Tungro disease?",
+    "context": "Use of resistant rice varieties is the most effective method. Synchronous planting and plowing of infected stubble after harvest are also recommended.",
+    "answers": {
+        "text": ["resistant rice varieties", "synchronous planting", "plowing infected stubble"],
+        "answer_start": [4, 127, 248]
+    }
+},
+{
+    "question": "What is the most efficient vector for Tungro virus transmission?",
+    "context": "The most efficient vector is the green leafhopper.",
+    "answers": {
+        "text": ["green leafhopper"],
+        "answer_start": [131]
+    }
+},
+{
+    "question": "How long do leafhoppers take to transmit the virus after feeding on an infected plant?",
+    "context": "Leafhoppers can transmit the virus to other plants within 5−7 days.",
+    "answers": {
+        "text": ["5−7 days"],
+        "answer_start": [164]
+    }
+},
+{
+    "question": "Which part of the plant can leafhoppers acquire the virus from?",
+    "context": "Leafhoppers can acquire the viruses from any part of the infected plant by feeding on it.",
+    "answers": {
+        "text": ["any part of the infected plant"],
+        "answer_start": [153]
+    }
+},
+{
+    "question": "When is Tungro infection most frequently seen in rice plants?",
+    "context": "It is most frequently seen during the vegetative phase.",
+    "answers": {
+        "text": ["vegetative phase"],
+        "answer_start": [111]
+    }
+},
+{
+    "question": "What are the primary sources of Tungro virus aside from infected rice plants?",
+    "context": "Other primary sources for tungro include stubble of previous crops, new growth from infected stubbles, volunteer rice, infected plants in nearby rice fields.",
+    "answers": {
+        "text": ["stubble of previous crops", "new growth from infected stubbles", "volunteer rice", "infected plants in nearby rice fields"],
+        "answer_start": [275, 314, 342, 370]
+    }
+},
+{
+    "question": "How can seedlings in nurseries or seedbeds be a source of Tungro virus?",
+    "context": "Seedlings raised in nurseries or seedbeds can be infected with Tungro prior to transplanting.",
+    "answers": {
+        "text": ["seedlings in nurseries or seedbeds"],
+        "answer_start": [410]
+    }
+},
+{
+    "question": "How does transplanting seedlings from nurseries in tungro-infected areas affect infection rates?",
+    "context": "Transplanting seedlings from nurseries in tungro-infected areas increases infection rates in the field.",
+    "answers": {
+        "text": ["increases infection rates"],
+        "answer_start": [432]
+    }
+},
+{
+    "question": "What are some symptoms of Tungro disease in rice plants?",
+    "context": "Tungro-infected plants show symptoms of stunting, delayed flowering, reduced number of tillers, small and not completely exserted panicles, higher percentage of sterile panicles or partially filled grains, covered with dark brown blotches.",
+    "answers": {
+        "text": ["stunting", "delayed flowering", "reduced number of tillers", "small and not completely exserted panicles", "sterile panicles or partially filled grains"],
+        "answer_start": [158, 192, 226, 257, 307]
+    }
+},
+{
+    "question": "How does the degree of stunting and leaf discoloration vary?",
+    "context": "It varies with rice varieties, strains of the viruses, the age of the plant when infected, and with the environment.",
+    "answers": {
+        "text": ["rice varieties", "strains of the viruses", "age of the plant", "environment"],
+        "answer_start": [326, 344, 370, 398]
+    }
+},
+{
+    "question": "What might infected plants show if they carry some resistance to Tungro disease?",
+    "context": "In varieties that carry some resistance to the disease, infected plants exhibit no discoloration or only a mild discoloration that may disappear as the plants mature.",
+    "answers": {
+        "text": ["no discoloration", "mild discoloration"],
+        "answer_start": [444, 469]
+    }
+},
+{
+    "question": "What can Tungro symptoms be mistaken for?",
+    "context": "Tungro symptoms can be mistaken for nitrogen and zinc deficiencies, water stress, pest infestation, and other diseases.",
+    "answers": {
+        "text": ["nitrogen and zinc deficiencies", "water stress", "pest infestation", "grassy stunt virus disease", "orange leaf"],
+        "answer_start": [496, 518, 544, 577, 598]
+    }
+},
+{
+    "question": "What tools can confirm Tungro infection?",
+    "context": "Serological tools such as Latex agglutination test, ELISA, and RIPA can confirm Tungro infection.",
+    "answers": {
+        "text": ["Latex agglutination test", "ELISA", "RIPA"],
+        "answer_start": [635, 651, 671]
+    }
+},
+{
+    "question": "Why is using insecticides to control leafhoppers not very effective?",
+    "context": "Green leafhoppers continuously move to surrounding fields and spread tungro rapidly in very short feeding times.",
+    "answers": {
+        "text": ["green leafhoppers move to surrounding fields", "spread tungro rapidly in short feeding times"],
+        "answer_start": [0, 87]
+    }
+},
+{
+    "question": "How can farmers minimize tungro infection?",
+    "context": "By using Tungro-resistant varieties, synchronizing planting with neighboring farms, and removing infected plants immediately after harvest.",
+    "answers": {
+        "text": ["Tungro-resistant varieties", "synchronizing planting", "removing infected plants immediately after harvest"],
+        "answer_start": [15, 61, 142]
+    }
+},
+{
+    "question": "What are some cultural practices that can reduce Tungro disease incidence?",
+    "context": "Field sanitation, removing and burning stubbles after harvest, and eliminating volunteer rice plants are effective cultural practices.",
+    "answers": {
+        "text": ["Field sanitation", "removing and burning stubbles", "eliminating volunteer rice plants"],
+        "answer_start": [0, 29, 74]
+    }
+},
+{
+    "question": "What are the main methods to control tungro disease?",
+    "context": "Resistance breeding, vector management, cultural practices, and use of clean seed are the main methods to control tungro disease.",
+    "answers": {
+        "text": ["Resistance breeding", "vector management", "cultural practices", "use of clean seed"],
+        "answer_start": [0, 23, 48, 101]
+    }
+},
+{
+    "question": "How do farmers manage the presence of leafhoppers in rice fields?",
+    "context": "Farmers can manage leafhoppers by maintaining proper water management and using chemical insecticides if necessary.",
+    "answers": {
+        "text": ["water management", "chemical insecticides"],
+        "answer_start": [66, 124]
+    }
+},
+{
+    "question": "What is the role of clean seed in managing Tungro disease?",
+    "context": "Planting clean seed free from Tungro disease helps prevent its spread in rice fields.",
+    "answers": {
+        "text": ["prevent its spread in rice fields"],
+        "answer_start": [58]
+    }
+},
+{
+    "question": "What is the importance of managing volunteer rice plants in Tungro disease control?",
+    "context": "Volunteer rice plants can harbor Tungro virus, serving as reservoirs for the disease and allowing it to persist in the field.",
+    "answers": {
+        "text": ["harbor Tungro virus", "serve as reservoirs", "allow it to persist"],
+        "answer_start": [30, 69, 113]
+    }
+},
+{
+    "question": "What is the economic impact of Tungro disease?",
+    "context": "Tungro disease causes yield losses, reducing rice production and affecting food security and farmer incomes.",
+    "answers": {
+        "text": ["yield losses", "reducing rice production", "affecting food security", "farmer incomes"],
+        "answer_start": [22, 48, 96, 124]
+    }
+},
+{
+    "question": "How does Tungro disease affect rice yield?",
+    "context": "It reduces the number of panicles per plant, grains per panicle, and weight of grains, leading to lower yield.",
+    "answers": {
+        "text": ["reduces panicles per plant", "grains per panicle", "weight of grains", "lower yield"],
+        "answer_start": [39, 65, 96, 141]
+    }
+},
+{
+    "question": "What are some resistance sources against Tungro disease in rice?",
+    "context": "Resistance sources include traditional varieties, wild relatives of rice, and newly developed resistant cultivars.",
+    "answers": {
+        "text": ["traditional varieties", "wild relatives of rice", "newly developed resistant cultivars"],
+        "answer_start": [34, 54, 108]
+    }
+},
+{
+    "question": "What are the challenges in breeding rice for Tungro resistance?",
+    "context": "Challenges include identifying new sources of resistance, overcoming the genetic complexity of resistance traits, and ensuring resistance durability.",
+    "answers": {
+        "text": ["identifying new sources of resistance", "overcoming genetic complexity", "ensuring resistance durability"],
+        "answer_start": [17, 74, 153]
+    }
+},
+{
+    "question": "What are some strategies to enhance resistance in rice against Tungro disease?",
+    "context": "Strategies include marker-assisted breeding, pyramiding resistance genes, and incorporating multiple resistance mechanisms.",
+    "answers": {
+        "text": ["marker-assisted breeding", "pyramiding resistance genes", "incorporating multiple resistance mechanisms"],
+        "answer_start": [21, 53, 131]
+    }
+},{
+    "question": "What is brown spot?",
+    "context": "Brown spot is a fungal disease that infects the coleoptile, leaves, leaf sheath, panicle branches, glumes, and spikelets.",
+    "answers": {
+      "text": ["a fungal disease", "infects the coleoptile, leaves, leaf sheath, panicle branches, glumes, and spikelets"],
+      "answer_start": [17, 61]
+    }
+  },
+  {
+    "question": "What parts of the rice plant does brown spot infect?",
+    "context": "Brown spot infects the coleoptile, leaves, leaf sheath, panicle branches, glumes, and spikelets.",
+    "answers": {
+      "text": ["coleoptile, leaves, leaf sheath, panicle branches, glumes, and spikelets"],
+      "answer_start": [26]
+    }
+  },
+  {
+    "question": "What are the observable damages caused by brown spot?",
+    "context": "Its most observable damage is the numerous big spots on the leaves which can kill the whole leaf.",
+    "answers": {
+      "text": ["numerous big spots on the leaves", "kill the whole leaf"],
+      "answer_start": [42, 79]
+    }
+  },
+  {
+    "question": "Under what conditions does brown spot develop?",
+    "context": "The disease can develop in areas with high relative humidity (86−100%) and temperature between 16 and 36°C.",
+    "answers": {
+      "text": ["high relative humidity (86−100%)", "temperature between 16 and 36°C"],
+      "answer_start": [46, 72]
+    }
+  },
+  {
+    "question": "What are the major sources of brown spot in the field?",
+    "context": "Major sources of brown spot in the field include infected seed, volunteer rice, infected rice debris, and weeds.",
+    "answers": {
+      "text": ["infected seed", "volunteer rice", "infected rice debris", "weeds"],
+      "answer_start": [37, 53, 73, 97]
+    }
+  },
+  {
+    "question": "When is brown spot infection most critical?",
+    "context": "The infection is most critical during maximum tillering up to the ripening stages of the crop.",
+    "answers": {
+      "text": ["maximum tillering up to the ripening stages of the crop"],
+      "answer_start": [48]
+    }
+  },
+  {
+    "question": "How can brown spot be identified?",
+    "context": "Check for lesions: Infected seedlings have small, circular, yellow brown or brown lesions that may girdle the coleoptile and distort primary and secondary leaves.",
+    "answers": {
+      "text": ["lesions"],
+      "answer_start": [15]
+    }
+  },
+  {
+    "question": "What are the symptoms of brown spot on leaves?",
+    "context": "Starting at tillering stage, lesions can be observed on the leaves. They are initially small, circular, and dark brown to purple-brown.",
+    "answers": {
+      "text": ["small, circular, and dark brown to purple-brown"],
+      "answer_start": [58]
+    }
+  },
+  {
+    "question": "What are the symptoms of brown spot on panicle branches and glumes?",
+    "context": "Infected glumes and panicle branches have dark brown to black oval spots or discoloration on the entire surface.",
+    "answers": {
+      "text": ["dark brown to black oval spots or discoloration on the entire surface"],
+      "answer_start": [57]
+    }
+  },
+  {
+    "question": "How does brown spot affect spikelets?",
+    "context": "Infection of florets leads to incomplete or disrupted grain filling and a reduction in grain quality.",
+    "answers": {
+      "text": ["incomplete or disrupted grain filling", "reduction in grain quality"],
+      "answer_start": [41, 89]
+    }
+  },
+  {
+    "question": "What are 'pecky rice' grains?",
+    "context": "The disease-causing fungi can also penetrate grains, causing 'pecky rice', a term used to describe spotting and discoloration of grains.",
+    "answers": {
+      "text": ["spotting and discoloration of grains"],
+      "answer_start": [114]
+    }
+  },
+  {
+    "question": "Why is brown spot considered economically significant?",
+    "context": "Brown spot causes both quantity and quality losses.",
+    "answers": {
+      "text": ["both quantity and quality losses"],
+      "answer_start": [36]
+    }
+  },
+  {
+    "question": "How much yield loss can brown spot cause in severely infected fields?",
+    "context": "Severely infected field can have as high as 45% yield loss.",
+    "answers": {
+      "text": ["as high as 45% yield loss"],
+      "answer_start": [50]
+    }
+  },
+  {
+    "question": "How does brown spot affect seedling mortality?",
+    "context": "Heavily infected seeds cause seedling blight and lead to 10−58% seedling mortality.",
+    "answers": {
+      "text": ["10−58% seedling mortality"],
+      "answer_start": [70]
+    }
+  },
+  {
+    "question": "How does brown spot affect grain quality?",
+    "context": "It affects the quality and the number of grains per panicle, and reduces the kernel weight.",
+    "answers": {
+      "text": ["affects the quality and the number of grains per panicle", "reduces the kernel weight"],
+      "answer_start": [21, 94]
+    }
+  },
+  {
+    "question": "How can soil fertility be improved to manage brown spot?",
+    "context": "Improving soil fertility is the first step in managing brown spot.",
+    "answers": {
+      "text": ["Improving soil fertility"],
+      "answer_start": [0]
+    }
+  },
+  {
+    "question": "What are some methods for managing brown spot using resistant varieties?",
+    "context": "Use resistant varieties. Contact your local agriculture office for up-to-date lists of varieties available.",
+    "answers": {
+      "text": ["resistant varieties"],
+      "answer_start": [4]
+    }
+  },
+  {
+    "question": "How effective are fungicides in managing brown spot?",
+    "context": "Use fungicides (e.g., iprodione, propiconazole, azoxystrobin, trifloxystrobin, and carbendazim) as seed treatments.",
+    "answers": {
+      "text": ["as seed treatments"],
+      "answer_start": [5]
+    }
+  },
+  {
+    "question": "What is the role of hot water treatment in managing brown spot?",
+    "context": "Treat seeds with hot water (53−54°C) for 10−12 minutes before planting, to control primary infection at the seedling stage.",
+    "answers": {
+      "text": ["control primary infection at the seedling stage"],
+      "answer_start": [11]
+    }
+  },
+  {
+    "question": "What historical event was brown spot linked to?",
+    "context": "Brown spot was considered to be the major factor contributing to the Great Bengal Famine in 1943.",
+    "answers": {
+      "text": ["Great Bengal Famine in 1943"],
+      "answer_start": [54]
+    }
+  },
+  {
+    "question": "What are the initial symptoms of brown spot in seedlings?",
+    "context": "Infected seedlings have small, circular, yellow brown or brown lesions that may girdle the coleoptile and distort primary and secondary leaves.",
+    "answers": {
+      "text": ["small, circular, yellow brown or brown lesions"],
+      "answer_start": [15]
+    }
+  },
+  {
+    "question": "What might brown spot lesions be mistaken for in certain rice varieties?",
+    "context": "In certain rice varieties, brown spot lesions can be mistaken for blast lesions.",
+    "answers": {
+      "text": ["blast lesions"],
+      "answer_start": [39]
+    }
+  },
+  {
+    "question": "How long can the fungus causing brown spot survive in the seed?",
+    "context": "The fungus can survive in the seed for more than four years.",
+    "answers": {
+      "text": ["more than four years"],
+      "answer_start": [27]
+    }
+  },
+  {
+    "question": "What are some economical management options for brown spot?",
+    "context": "More economical management options include using resistant varieties and treating seeds with hot water.",
+    "answers": {
+      "text": ["using resistant varieties", "treating seeds with hot water"],
+      "answer_start": [6, 14]
+    }
+  },
+  {
+    "question": "What can lead to infection by brown spot in rice?",
+    "context": "For infection to occur, the leaves must be wet for 8−24 hours.",
+    "answers": {
+      "text": ["leaves must be wet for 8−24 hours"],
+      "answer_start": [10]
+    }
+  },
+  {
+    "question": "What are the initial symptoms of brown spot on leaves?",
+    "context": "Starting at tillering stage, lesions can be observed on the leaves.",
+    "answers": {
+      "text": ["lesions can be observed"],
+      "answer_start": [42]
+    }
+  },
+  {
+    "question": "What are the conditions for brown spot development?",
+    "context": "The disease can develop in areas with high relative humidity (86−100%) and temperature between 16 and 36°C.",
+    "answers": {
+      "text": ["high relative humidity (86−100%)", "temperature between 16 and 36°C"],
+      "answer_start": [46, 72]
+    }
+  },
+  {
+    "question": "How can the quality and number of grains per panicle be affected by brown spot?",
+    "context": "It affects the quality and the number of grains per panicle.",
+    "answers": {
+      "text": ["affects the quality and the number of grains per panicle"],
+      "answer_start": [21]
+    }
+  },
+  {
+    "question": "What are the observable damages caused by brown spot?",
+    "context": "Its most observable damage is the numerous big spots on the leaves which can kill the whole leaf.",
+    "answers": {
+      "text": ["numerous big spots on the leaves", "kill the whole leaf"],
+      "answer_start": [42, 79]
+    }
+  },
+  {
+    "question": "What is brown spot?",
+    "context": "Brown spot is a fungal disease that infects the coleoptile, leaves, leaf sheath, panicle branches, glumes, and spikelets.",
+    "answers": {
+      "text": ["a fungal disease", "infects the coleoptile, leaves, leaf sheath, panicle branches, glumes, and spikelets"],
+      "answer_start": [17, 61]
+    }
+  },
+  {
+    "question": "What parts of the rice plant does brown spot infect?",
+    "context": "Brown spot infects the coleoptile, leaves, leaf sheath, panicle branches, glumes, and spikelets.",
+    "answers": {
+      "text": ["coleoptile, leaves, leaf sheath, panicle branches, glumes, and spikelets"],
+      "answer_start": [26]
+    }
+  },
+  {
+    "question": "What are the observable damages caused by brown spot?",
+    "context": "Its most observable damage is the numerous big spots on the leaves which can kill the whole leaf.",
+    "answers": {
+      "text": ["numerous big spots on the leaves", "kill the whole leaf"],
+      "answer_start": [42, 79]
+    }
+  },
+  {
+    "question": "Under what conditions does brown spot develop?",
+    "context": "The disease can develop in areas with high relative humidity (86−100%) and temperature between 16 and 36°C.",
+    "answers": {
+      "text": ["high relative humidity (86−100%)", "temperature between 16 and 36°C"],
+      "answer_start": [46, 72]
+    }
+  },
+  {
+    "question": "What are the major sources of brown spot in the field?",
+    "context": "Major sources of brown spot in the field include infected seed, volunteer rice, infected rice debris, and weeds.",
+    "answers": {
+      "text": ["infected seed", "volunteer rice", "infected rice debris", "weeds"],
+      "answer_start": [37, 53, 73, 97]
+    }
+  },
+  {
+    "question": "When is brown spot infection most critical?",
+    "context": "The infection is most critical during maximum tillering up to the ripening stages of the crop.",
+    "answers": {
+      "text": ["maximum tillering up to the ripening stages of the crop"],
+      "answer_start": [48]
+    }
+  }
+]

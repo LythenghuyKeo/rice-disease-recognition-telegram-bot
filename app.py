@@ -6,7 +6,11 @@ from PIL import Image
 import os
 from datetime import datetime
 from dotenv import load_dotenv
+import openai
+import re
 load_dotenv()
+API_KEY= os.getenv('OPENAI_SECRET_KEY')
+openai.api_key =API_KEY
 token = os.getenv('TELEGRAM_TOKEN')
 print(token)
 transform = transforms.Compose([
@@ -14,6 +18,29 @@ transform = transforms.Compose([
     transforms.ToTensor(),
     transforms.Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
 ])
+keywords=['rice','rice disease','blast','tungro','bacterial blight', 'brownspot']
+
+def filter_input(user_input):
+    for keyword in keywords:
+         if re.search(keyword,user_input,re.IGNORECASE):
+             return True
+         return False
+def generate_response(question):
+        response = openai.ChatCompletion.create(
+        model="gpt-3.5-turbo",
+        messages=[
+            {"role": "system", "content": "You are a helpful assistant."},
+            {"role": "user", "content": question}
+        ]
+        )
+        return response.choices[0].message['content']
+def chatbot_response(user_input):
+    if filter_input(user_input):
+        response = generate_response(user_input)
+        return response
+    else:
+        return "I'm sorry, I can only answer questions related to rice diseases like blast, tungro, bacterial blight, and brown spot. Please ask a related question."
+
 def load_image(image_path):
     my_image = Image.open(image_path).convert('RGB')
     my_image = transform(my_image).unsqueeze(0)
@@ -46,7 +73,7 @@ messages={
              'SRCM0002':"⏳Image is processing.Please wait for 2 to 3 second.",
              'SRCM0003':"✅Done. Here is the result.",
              'SRCM0004':"❌Your picture is not clear enough to detect. Send me a better picture"
-         }
+         },
     },
     'kh':{
         'selected':"អ្នករើសភាសាខ្មែរ",
@@ -62,6 +89,7 @@ messages={
              'C0001':'ចូលឆានែលតេលេក្រាមខាងក្រោម នេះដើម្បីចែករំលែកបទពិសោធន៍ និង ដោះស្រាយបញ្ហាផ្សេងៗទាក់ទននឹងដំណាំស្រូវ​ ជាមួយកសិករខ្មែរយើងផ្សេងទៀត',
              'C0002':"ចុចចូល🌾👨‍🌾"
          }
+      
           
     }
 }
@@ -104,6 +132,14 @@ async def scan(update:Update,context:ContextTypes.DEFAULT_TYPE)->None:
     await query.answer()
     text_message= messages[lang]['scan_rice_crop_menu']['SRCM0001']
     await context.bot.send_message(chat_id=query.message.chat_id,text=text_message,)
+async def handle_reply(update:Update,context:ContextTypes.DEFAULT_TYPE)->None:
+    #  query = update.callback_query
+    # #  _, lang = query.data.split("_")
+    #  await query.answer()
+     user_message = update.message.text
+     user_message=user_message+" generate 5 bullet point keep it short and conscise."
+     result= chatbot_response(user_message)
+     await update.message.reply_text(result)
 async def handle_photo(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     if not update.message or not update.message.photo:
         await update.message.reply_text("Please send a photo.")
@@ -131,12 +167,24 @@ async def handle_photo(update: Update, context: ContextTypes.DEFAULT_TYPE) -> No
 
 def main():
     TOKEN=token
-    app = ApplicationBuilder().token(TOKEN).build()
-    app.add_handler(CommandHandler("start", start))
-    app.add_handler(CallbackQueryHandler(set_language,pattern='^lang_'))
-    app.add_handler(CallbackQueryHandler(community,pattern='^community_[a-z]{2}$'))
-    app.add_handler(CallbackQueryHandler(scan,pattern='^scan_[a-z]{2}$'))
-    app.add_handler(MessageHandler(filters.PHOTO, handle_photo))
-    app.run_polling()
+    # app = ApplicationBuilder().token(TOKEN).build()
+    # app.add_handler(CommandHandler("start", start))
+    # app.add_handler(CallbackQueryHandler(set_language,pattern='^lang_'))
+    # app.add_handler(CallbackQueryHandler(community,pattern='^community_[a-z]{2}$'))
+    # app.add_handler(CallbackQueryHandler(scan,pattern='^scan_[a-z]{2}$'))
+    # app.add_handler(MessageHandler(filters.PHOTO, handle_photo))
+    try:
+    # Main bot code here
+        app = ApplicationBuilder().token(TOKEN).build()
+        app.add_handler(CommandHandler("start", start))
+        app.add_handler(CallbackQueryHandler(set_language,pattern='^lang_'))
+        app.add_handler(CallbackQueryHandler(community,pattern='^community_[a-z]{2}$'))
+        app.add_handler(CallbackQueryHandler(scan,pattern='^scan_[a-z]{2}$'))
+        app.add_handler(MessageHandler(filters.PHOTO, handle_photo))
+        app.add_handler(MessageHandler(filters.TEXT,handle_reply))
+        app.run_polling()
+    except Exception as e:
+       print(f"Exception occurred: {str(e)}") 
+    # app.add_handler(MessageHandler(filters.TEXT,handle_reply))
 if __name__=='__main__':
     main()
